@@ -7,3 +7,9 @@
 [submodule "BD/Work-2"]
 	path = BD/Work-2
 	url = https://github.com/MiguelNdeCarvalho/BD-Work-2
+[submodule "CG/Final-Work"]
+	path = CG/Final-Work
+	url = https://github.com/MiguelNdeCarvalho/CG-FinalWork
+[submodule "CG/Exercises"]
+	path = CG/Exercises
+	url = https://github.com/MiguelNdeCarvalho/CG
