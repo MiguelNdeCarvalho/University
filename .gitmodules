@@ -16,3 +16,9 @@
 [submodule "SOI/Work-1"]
 	path = SOI/Work-1
 	url = https://github.com/MiguelNdeCarvalho/SOI-Trab1
+[submodule "MDS/Final-Work"]
+	path = MDS/Final-Work
+	url = https://github.com/MiguelNdeCarvalho/MDS-Work
+[submodule "MDS/MDS-Studdy"]
+	path = MDS/MDS-Studdy
+	url = https://github.com/MiguelNdeCarvalho/MDS-Freq
