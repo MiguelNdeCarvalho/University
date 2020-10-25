@@ -13,3 +13,6 @@
 [submodule "CG/Exercises"]
 	path = CG/Exercises
 	url = https://github.com/MiguelNdeCarvalho/CG
+[submodule "SOI/Work-1"]
+	path = SOI/Work-1
+	url = https://github.com/MiguelNdeCarvalho/SOI-Trab1
