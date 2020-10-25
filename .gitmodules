@@ -1,3 +1,9 @@
 [submodule "PI/Final-Work"]
 	path = PI/Final-Work
 	url = https://github.com/MiguelNdeCarvalho/PI-Work
+[submodule "BD/Work-1"]
+	path = BD/Work-1
+	url = https://github.com/MiguelNdeCarvalho/BD-Work-1
+[submodule "BD/Work-2"]
+	path = BD/Work-2
+	url = https://github.com/MiguelNdeCarvalho/BD-Work-2
