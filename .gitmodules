@@ -46,3 +46,9 @@
 [submodule "AA/AA-Work2"]
 	path = AA/AA-Work2
 	url = https://github.com/MiguelNdeCarvalho/AA-Work2
+[submodule "P3/P3"]
+	path = P3/P3
+	url = https://github.com/MiguelNdeCarvalho/P3
+[submodule "P3/P3-WORK"]
+	path = P3/P3-WORK
+	url = https://github.com/jperas243/P3-WORK
