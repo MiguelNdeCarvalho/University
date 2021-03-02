@@ -28,3 +28,12 @@
 [submodule "Redes/Redes-Work"]
 	path = Redes/Redes-Work
 	url = git@github.com:MiguelNdeCarvalho/Redes-Work.git
+[submodule "TW/TW"]
+	path = TW/TW
+	url = git@github.com:MiguelNdeCarvalho/TW.git
+[submodule "TW/TW-Work1"]
+	path = TW/TW-Work1
+	url = git@github.com:MiguelNdeCarvalho/TW-Work1.git
+[submodule "TW/TW-Work2"]
+	path = TW/TW-Work2
+	url = git@github.com:MiguelNdeCarvalho/TW-Work2.git
