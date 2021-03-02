@@ -52,3 +52,6 @@
 [submodule "P3/P3-WORK"]
 	path = P3/P3-WORK
 	url = https://github.com/jperas243/P3-WORK
+[submodule "ALP/ALP"]
+	path = ALP/ALP
+	url = https://github.com/MiguelNdeCarvalho/ALP
