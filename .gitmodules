@@ -24,16 +24,16 @@
 	url = https://github.com/MiguelNdeCarvalho/MDS-Freq
 [submodule "Redes/Redes"]
 	path = Redes/Redes
-	url = git@github.com:MiguelNdeCarvalho/Redes.git
+	url = https://github.com/MiguelNdeCarvalho/Redes
 [submodule "Redes/Redes-Work"]
 	path = Redes/Redes-Work
-	url = git@github.com:MiguelNdeCarvalho/Redes-Work.git
+	url = https://github.com/MiguelNdeCarvalho/Redes-Work
 [submodule "TW/TW"]
 	path = TW/TW
-	url = git@github.com:MiguelNdeCarvalho/TW.git
+	url = https://github.com/MiguelNdeCarvalho/TW
 [submodule "TW/TW-Work1"]
 	path = TW/TW-Work1
-	url = git@github.com:MiguelNdeCarvalho/TW-Work1.git
+	url = https://github.com/MiguelNdeCarvalho/TW-Work1
 [submodule "TW/TW-Work2"]
 	path = TW/TW-Work2
-	url = git@github.com:MiguelNdeCarvalho/TW-Work2.git
+	url = https://github.com/MiguelNdeCarvalho/TW-Work2
