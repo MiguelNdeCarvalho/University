@@ -22,3 +22,9 @@
 [submodule "MDS/MDS-Studdy"]
 	path = MDS/MDS-Studdy
 	url = https://github.com/MiguelNdeCarvalho/MDS-Freq
+[submodule "Redes/Redes"]
+	path = Redes/Redes
+	url = git@github.com:MiguelNdeCarvalho/Redes.git
+[submodule "Redes/Redes-Work"]
+	path = Redes/Redes-Work
+	url = git@github.com:MiguelNdeCarvalho/Redes-Work.git
