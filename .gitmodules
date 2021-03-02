@@ -37,3 +37,12 @@
 [submodule "TW/TW-Work2"]
 	path = TW/TW-Work2
 	url = https://github.com/MiguelNdeCarvalho/TW-Work2
+[submodule "AA/AA"]
+	path = AA/AA
+	url = https://github.com/MiguelNdeCarvalho/AA
+[submodule "AA/AA-Work1"]
+	path = AA/AA-Work1
+	url = https://github.com/MiguelNdeCarvalho/AA-Work1
+[submodule "AA/AA-Work2"]
+	path = AA/AA-Work2
+	url = https://github.com/MiguelNdeCarvalho/AA-Work2
