@@ -88,3 +88,6 @@
 [submodule "IA/IA-Work-4"]
 	path = IA/IA-Work-4
 	url = https://github.com/MiguelNdeCarvalho/IA-Work-4.git
+[submodule "SI/SI-Work"]
+	path = SI/SI-Work
+	url = https://github.com/MiguelNdeCarvalho/SI-Work.git
