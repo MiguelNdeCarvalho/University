@@ -55,3 +55,9 @@
 [submodule "ALP/ALP"]
 	path = ALP/ALP
 	url = https://github.com/MiguelNdeCarvalho/ALP
+[submodule "EDAI/EDAI"]
+	path = EDAI/EDAI
+	url = https://github.com/MiguelNdeCarvalho/EDAI.git
+[submodule "EDAI/EDAI-Work"]
+	path = EDAI/EDAI-Work
+	url = https://github.com/MiguelNdeCarvalho/EDAI-Work.git
