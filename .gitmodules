@@ -91,3 +91,12 @@
 [submodule "SI/SI-Work"]
 	path = SI/SI-Work
 	url = https://github.com/MiguelNdeCarvalho/SI-Work.git
+[submodule "SDistribuidos/SDistribuidos"]
+	path = SDistribuidos/SDistribuidos
+	url = https://github.com/MiguelNdeCarvalho/SDistribuidos.git
+[submodule "SDistribuidos/SDistribuidos-Work-1"]
+	path = SDistribuidos/SDistribuidos-Work-1
+	url = https://github.com/MiguelNdeCarvalho/SDistribuidos-Work-1.git
+[submodule "SDistribuidos/SDistribuidos-Work-2"]
+	path = SDistribuidos/SDistribuidos-Work-2
+	url = https://github.com/MiguelNdeCarvalho/SDistribuidos-Work-2.git
