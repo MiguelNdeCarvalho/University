@@ -100,3 +100,6 @@
 [submodule "SDistribuidos/SDistribuidos-Work-2"]
 	path = SDistribuidos/SDistribuidos-Work-2
 	url = https://github.com/MiguelNdeCarvalho/SDistribuidos-Work-2.git
+[submodule "SMA/Virtual-Tripmeter"]
+	path = SMA/Virtual-Tripmeter
+	url = https://github.com/MiguelNdeCarvalho/Virtual-Tripmeter.git
