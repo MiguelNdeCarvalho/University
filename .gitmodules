@@ -73,3 +73,18 @@
 [submodule "EDAII/EDAII-Work-3"]
 	path = EDAII/EDAII-Work-3
 	url = https://github.com/MiguelNdeCarvalho/EDAII-Work-3.git
+[submodule "IA/IA"]
+	path = IA/IA
+	url = git@github.com:MiguelNdeCarvalho/IA.git
+[submodule "IA/IA-Work-1"]
+	path = IA/IA-Work-1
+	url = git@github.com:MiguelNdeCarvalho/IA-Work-1.git
+[submodule "IA/IA-Work-2"]
+	path = IA/IA-Work-2
+	url = git@github.com:MiguelNdeCarvalho/IA-Work-2.git
+[submodule "IA/IA-Work-3"]
+	path = IA/IA-Work-3
+	url = git@github.com:MiguelNdeCarvalho/IA-Work-3.git
+[submodule "IA/IA-Work-4"]
+	path = IA/IA-Work-4
+	url = git@github.com:MiguelNdeCarvalho/IA-Work-4.git
